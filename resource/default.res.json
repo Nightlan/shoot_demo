@@ -1,0 +1,40 @@
+{
+	"resources": [
+		{
+			"name": "backboard_png",
+			"type": "image",
+			"url": "assets/backboard.png"
+		},
+		{
+			"name": "basketball_png",
+			"type": "image",
+			"url": "assets/basketball.png"
+		},
+		{
+			"name": "bg_png",
+			"type": "image",
+			"url": "assets/bg.png"
+		},
+		{
+			"name": "cover_png",
+			"type": "image",
+			"url": "assets/cover.png"
+		},
+		{
+			"name": "login_png",
+			"type": "image",
+			"url": "assets/login.png"
+		},
+		{
+			"name": "start_png",
+			"type": "image",
+			"url": "assets/start.png"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "backboard_png,basketball_png,bg_png,cover_png,login_png,start_png"
+		}
+	]
+}

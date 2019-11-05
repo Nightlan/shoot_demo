@@ -1,0 +1,29 @@
+{
+  "engineVersion": "5.2.16",
+  "compilerVersion": "5.2.16",
+  "template": {},
+  "target": {
+    "current": "wxgame"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "promise"
+    },
+    {
+     "name": "p2",  
+     "path": "./libs/physics" 
+   }
+  ]
+}
